@@ -1,0 +1,6 @@
+@ProductManagementAPI_HostAddress = http://localhost:7165
+
+GET {{ProductManagementAPI_HostAddress}}/api/products/
+Accept: application/json
+
+###
